@@ -6,7 +6,7 @@ Nesse laboratorio foi mostrado como aumentar o SLA dos serviços com as opções
 
 ![Alt Text]()
 
-![Alt Text]()
+![Alt Text](https://github.com/DeborahBMachado/DIO-criando-maquinas-virtuais/blob/main/lab2/Captura%20de%20tela%202024-09-20%20223547.png)
 
 #  Portal do Azure de criação de Contas de armazenamento e as opçoes de redundância para aumento de SLA:
 
